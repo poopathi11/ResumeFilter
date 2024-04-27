@@ -1,0 +1,5 @@
+Step 01: start the JSON server(npx json-server --watch ./Data.json)
+Step 02: open the LOGIN.HTML file in Live Server
+Step 03: USERNAME: admin, PASSWORD: password enter in the loing page
+Step 04: search in the colum in the by based JOB NAME
+step 05: try the logout Button
